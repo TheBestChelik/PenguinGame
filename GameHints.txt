@@ -1,0 +1,16 @@
+If your penguin is under attack, move it in safe place
+Never let your penguin get stuck
+The penguin can only move in a straight line, but an unlimited distance.
+Penguins can swim, but not in this game)
+Penguins are birds but they can't fly
+Penguins can only eat fish that are on ice, not in water
+No one knows for certain why the fish jumped out of the water and lies on the ice.
+Penguins can't walk diagonally
+The penguin can't jump over another penguin
+The penguin is unable to jump over block of water
+Become an alpha penguin, attack enemy penguins
+The player whose penguins ate the most fish wins.
+Don't get carried away with one penguin if you have a whole flock of them
+If one of your penguins is attacked, use other penguins to protect him
+Penguins are pack animals, but keeping them close to each other is not the best idea in this game.
+Never forget a single penguin from your flock
