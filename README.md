@@ -6,6 +6,7 @@
   - [Placement Stage](#placement-stage)
   - [Movement Stage](#movement-stage)
   - [Determining Winner](#determining-winner)
+  - [Hint System](#hint-system)
   - [Run the application](#run-the-application)
 # PenguinGame
 "Penguin Game" is a university team project that transforms the board game "Hey, That's My Fish!" into a digital rendition. The project features a Graphical User Interface (GUI) built using fundamental WinAPI capabilities.
@@ -13,7 +14,7 @@
 "Hey, That's My Fish!" is a strategy board game where players control penguins on a grid with ice and fish. Players take turns moving their penguins in straight lines, collecting fish from the tiles they move over. As penguins move, the tiles they leave behind are removed, creating a shifting game board where players aim to collect the most fish by the end to win.
 ## Initialization Stage
 ![](https://github.com/TheBestChelik/PenguinGame/blob/master/img/Initialization.png?raw=true)
-![]()
+![](https://github.com/TheBestChelik/PenguinGame/blob/master/img/InitializationName.png?raw=true)
 
 To set up the game, follow these steps during the initialization stage:
 
@@ -36,6 +37,8 @@ To initiate a penguin's movement, a player selects their desired penguin and the
 
 ## Determining Winner
 The winner of "Hey, That's My Fish!" is the player with the highest accumulated fish count collected by their penguins on the game board when the movement stage concludes. The player with the most fish wins the game.
+## Hint System
+Within this game, players possess the capability to customize the displayed hints throughout the gameplay. This can be accomplished by modifying the "GameHints.txt" file, with each hint required to commence on a new line.
 ## Run the application
    Clone repository
    ```bat 
