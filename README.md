@@ -12,7 +12,9 @@
 ## General Rules
 "Hey, That's My Fish!" is a strategy board game where players control penguins on a grid with ice and fish. Players take turns moving their penguins in straight lines, collecting fish from the tiles they move over. As penguins move, the tiles they leave behind are removed, creating a shifting game board where players aim to collect the most fish by the end to win.
 ## Initialization Stage
-![]()
+![](https://github.com/TheBestChelik/PenguinGame/blob/master/img/Initialization.png?raw=true)
+![](https://github.com/TheBestChelik/PenguinGame/blob/master/img/Initialization2.png?raw=true)
+
 To set up the game, follow these steps during the initialization stage:
 
 1. Determine the board's dimensions in cells (recommended: 20x20).
@@ -22,7 +24,8 @@ To set up the game, follow these steps during the initialization stage:
 
 
 ## Placement Stage
-![]()
+![](https://github.com/TheBestChelik/PenguinGame/blob/master/img/PlacementFinished.png?raw=true)
+
 During the placement phase of "Hey, That's My Fish!," players take turns placing their penguins on unoccupied tiles of the game board. Each player's penguins must be placed on a tile with only one fish, and once placed, they cannot be moved until the main gameplay starts (Movement Stage). To place the penguin layer has to click on the chosen cell. Players strategically position their penguins to maximize their fish collection potential and establish a strong starting position for the subsequent movement phase.
 
 Placement info
